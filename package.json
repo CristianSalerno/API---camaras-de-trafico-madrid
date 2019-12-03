@@ -1,0 +1,19 @@
+{
+  "name": "cameraCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fast-xml-parser": "^3.15.0",
+    "got": "^10.0.1",
+    "terminal-image": "^0.2.0",
+    "vorpal": "^1.12.0"
+  }
+}
